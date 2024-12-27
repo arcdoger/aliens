@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dragon Slash Aliens Encyclopedia</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1f1f1f;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #2c2c2c;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #444;
+        }
+        .content {
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .content h2 {
+            font-size: 2em;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+        }
+        .content p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        .creature {
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        .creature img {
+            max-width: 300px;
+            margin-right: 20px;
+        }
+        footer {
+            background-color: #1f1f1f;
+            padding: 10px;
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dragon Slash Aliens Encyclopedia</h1>
+    </header>
+    
+    <nav>
+        <a href="#dragons">Dragons</a>
+        <a href="#aliens">Aliens</a>
+        <a href="#survival">Human Survival</a>
+    </nav>
+    
+    <div class="content" id="dragons">
+        <h2>Dragons: Masters of the Skies</h2>
+        
+        <div class="creature">
+            <img src="dragon_image_1.jpg" alt="Dragon Image 1">
+            <div>
+                <h3>Ember Wyrm</h3>
+                <p>The Ember Wyrm is a fire-breathing dragon with scales that glow like molten lava. Known for their fiery tempers, they can raze entire cities with a single burst of flame. They prefer to dwell in volcanic regions, using the heat of the earth to replenish their energy.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="dragon_image_2.jpg" alt="Dragon Image 2">
+            <div>
+                <h3>Frostmaw Dragon</h3>
+                <p>The Frostmaw Dragon has the ability to breathe a deadly freezing mist, capable of freezing entire landscapes within seconds. Its icy breath can create devastating blizzards, and its appearance often heralds the coming of a new Ice Age.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="dragon_image_3.jpg" alt="Dragon Image 3">
+            <div>
+                <h3>Stormwing Dragon</h3>
+                <p>The Stormwing Dragon is known for its ability to control the weather. With its massive wings, it can summon violent storms and lightning strikes, using the skies as its personal weapon. Its thunderous roars can be heard for miles around.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="dragon_image_4.jpg" alt="Dragon Image 4">
+            <div>
+                <h3>Void Drakon</h3>
+                <p>These dragons are masters of the void, existing in both our world and the shadowy realms beyond. Their eyes glow with the power of the void, and they are capable of manipulating space itself, creating rifts that allow them to travel instantly from one location to another.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="dragon_image_5.jpg" alt="Dragon Image 5">
+            <div>
+                <h3>Ironclaw Dragon</h3>
+                <p>The Ironclaw Dragon is a formidable beast, with scales as hard as steel. It is often seen as the ultimate guardian of treasure hoards, using its massive claws to crush anyone daring to approach its domain. They have a reputation for being both intelligent and ruthless.</p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="content" id="aliens">
+        <h2>Aliens: The Invaders from Beyond</h2>
+        
+        <div class="creature">
+            <img src="alien_image_1.jpg" alt="Alien Image 1">
+            <div>
+                <h3>Blightbearer</h3>
+                <p>The Blightbearers are insectoid aliens that have the ability to infect and control other life forms. Their saliva carries a potent virus that they use to turn Earth’s creatures into mindless drones, working under their control. They are often the first wave in an alien invasion.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="alien_image_2.jpg" alt="Alien Image 2">
+            <div>
+                <h3>Scion Overseer</h3>
+                <p>Scion Overseers are towering, humanoid aliens that command vast armies of lesser creatures. With advanced psychic abilities, they can read and control the minds of other beings. Their metallic skin is impervious to most conventional weaponry, making them nearly invincible on the battlefield.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="alien_image_3.jpg" alt="Alien Image 3">
+            <div>
+                <h3>Harbinger Swarm</h3>
+                <p>The Harbinger Swarm is a collective species of small, flying aliens that work together in perfect harmony. Individually, they are weak, but in a swarm, they are deadly. They can overwhelm entire cities in minutes, incapacitating anyone caught within their cloud of relentless, sharp appendages.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="alien_image_4.jpg" alt="Alien Image 4">
+            <div>
+                <h3>Necron Lords</h3>
+                <p>The Necron Lords are cybernetic alien beings that have transcended biology. Their metal bodies are impervious to most attacks, and they are often seen leading vast armies of reanimated soldiers. Their primary goal is to harvest Earth's resources for their own nefarious purposes.</p>
+            </div>
+        </div>
+
+        <div class="creature">
+            <img src="alien_image_5.jpg" alt="Alien Image 5">
+            <div>
+                <h3>Throne-Master</h3>
+                <p>Throne-Masters are colossal, multi-tentacled aliens that serve as the leaders of the invading alien forces. They sit upon massive thrones, controlling their empire through both technology and telepathic influence. The Throne-Masters are feared for their ruthless strategic mind and vast technological superiority.</p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="content" id="survival">
+        <h2>Survival: Humanity's Last Stand</h2>
+        <p>Humanity's remnants live in scattered underground shelters and remote safehouses. The fight for survival is constant, as both dragons and aliens patrol the surface. Technology is all but lost, and every remaining survivor must rely on the knowledge passed down from the previous generation to stay hidden and resist the forces that have taken over.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Dragon Slash Aliens Encyclopedia. All rights reserved. For the survival of humanity.</p>
+    </footer>
+</body>
+</html>
+    
